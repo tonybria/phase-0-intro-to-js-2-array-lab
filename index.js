@@ -1,1 +1,6 @@
-// Write your solution here!
+const cats = [];
+
+beforeEach(() => {
+  const newCat = 'Garfield';
+  cats.push(newCat);
+});s
